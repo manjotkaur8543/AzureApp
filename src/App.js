@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>🚀 My First Azure Deployment!</h1>
-        <p>Built by [Your Name] - Azure Learning Journey</p>
+        <p>Built by Me - Azure Learning Journey</p>
         <p>Deployed to Azure Static Web Apps</p>
         <div style={{marginTop: '20px'}}>
           <button onClick={() => alert('Hello from Azure!')}>
